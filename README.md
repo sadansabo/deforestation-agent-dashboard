@@ -1,5 +1,5 @@
 readme_text = """
-# 🌍 Deforestation Agent Dashboard
+# 🌍 Deforestation Monitoring Agent 
 
 An AI Agent for monitoring deforestation using NDVI analysis.  
 Built for the Wokkathon Challenge.
